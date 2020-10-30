@@ -80,8 +80,7 @@ class MainActivity : AppCompatActivity() {
                                 if (addresses == null || addresses.isEmpty()) {
                                     Log.i(TAG, "Nenhum endereço encontrado")
                                 } else {
-                                    addressTextView.text =
-                                        "Endereço: " + addresses.get(0).getAddressLine(0)
+                                    addressTextView.text = "Endereço: " + addresses.get(0).getAddressLine(0)
                                     Log.i(TAG, addresses.toString())
                                 }
 
