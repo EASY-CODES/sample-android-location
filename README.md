@@ -6,7 +6,7 @@
   Aplicativo de localização com base em longitude e latitude usando Kotlin
 </h4>
 
-![location_app](https://user-images.githubusercontent.com/26925002/122575710-6616bc00-d027-11eb-9a14-72b2feae9b06.jpeg)
+![location_app](https://user-images.githubusercontent.com/26925002/122577689-7465d780-d029-11eb-82d1-e1981f1a1f8b.PNG)
 
 # Contributors 
 
